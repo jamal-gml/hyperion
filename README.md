@@ -1,5 +1,13 @@
-# Hyperion
-
+```
+ /$$   /$$ /$$     /$$ /$$$$$$$  /$$$$$$$$ /$$$$$$$  /$$$$$$  /$$$$$$  /$$   /$$
+| $$  | $$|  $$   /$$/| $$__  $$| $$_____/| $$__  $$|_  $$_/ /$$__  $$| $$$ | $$
+| $$  | $$ \  $$ /$$/ | $$  \ $$| $$      | $$  \ $$  | $$  | $$  \ $$| $$$$| $$
+| $$$$$$$$  \  $$$$/  | $$$$$$$/| $$$$$   | $$$$$$$/  | $$  | $$  | $$| $$ $$ $$
+| $$__  $$   \  $$/   | $$____/ | $$__/   | $$__  $$  | $$  | $$  | $$| $$  $$$$
+| $$  | $$    | $$    | $$      | $$      | $$  \ $$  | $$  | $$  | $$| $$\  $$$
+| $$  | $$    | $$    | $$      | $$$$$$$$| $$  | $$ /$$$$$$|  $$$$$$/| $$ \  $$
+|__/  |__/    |__/    |__/      |________/|__/  |__/|______/ \______/ |__/  \__/
+```
 **Local-first MCP collaboration hub for multiple AI assistant instances.**
 
 Hyperion lets separate AI client processes exchange tasks and messages through a shared local coordination service. It is designed for setups such as multiple Claude Code terminals working in tandem:
